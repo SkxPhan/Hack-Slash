@@ -1,7 +1,8 @@
 # Hack and Slash/Dungeon Crawler Game (Zelda like)
 ## 1. Introduction
-As part of the INFO-H-200 project at the École Polytechnique de Bruxelles in 2016, we developed a Hack and Slash/Dungeon Crawler game in Java with a graphical interface. The project aimed to practice object-oriented programming and introduce us to video game development. This README summarizes the game's implementation and design patterns. More details are available in the ![rapport-info.pdf](docs/rapport-info.pdf) file (French).
-![Game demo](docs/zelda.png)
+As part of the INFO-H-200 project at the École Polytechnique de Bruxelles in 2016, we developed a Hack and Slash/Dungeon Crawler game in Java with a graphical interface. The project aimed to practice object-oriented programming and introduce us to video game development. This README summarizes the game's implementation and design patterns. More details are available in the [rapport-info.pdf](docs/rapport-info.pdf) file (French).
+
+![Game demo](docs/zelda.PNG)
 
 ## 2. Game Overview
 ### 2.1 Characters
